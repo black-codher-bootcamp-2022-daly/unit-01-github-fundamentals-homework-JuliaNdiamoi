@@ -1,6 +1,6 @@
 # **What have I learned about in Unit 1?**
 
-
+###### Please ignore my previous commits. They were done using my other github account by mistake. I was trying to change it to the correct github account and was testing this, hence all the commits
 ### **Session 1 & 2**: 
 ---
 ##### I learnt about the SDLC, different methodologies, servers and clients
@@ -15,4 +15,3 @@
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
   
-m
